@@ -135,5 +135,5 @@
     $container.removeClass('mobile-nav-on');
   });
 
-  alert('32423432');
+
 })(jQuery);
